@@ -1,0 +1,28 @@
+body
+{
+    background-color:white;
+}
+div
+{
+    display: inline;
+}
+.first
+{
+    position: relative;
+    left:550px;
+    bottom: 80px ;
+}
+.second
+{
+    position: relative;
+    left:550px;
+    bottom: 80px ;
+}
+.Titre_M
+{
+    font-size:medium;
+}
+td.style
+{
+    text-align: center;
+}
